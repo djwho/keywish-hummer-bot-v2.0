@@ -1,6 +1,6 @@
 #include "Hummerbot.h"
 #include "ProtocolParser.h"
-#include "KeyMap.h"
+#include "Keymap.h"
 #include "debug.h"
 
 #define INPUT1_PIN 6   // PWMB
